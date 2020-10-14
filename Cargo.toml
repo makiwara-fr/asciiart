@@ -1,0 +1,9 @@
+[package]
+name = "asciiart"
+version = "0.1.0"
+authors = ["makiwara-fr <charles@makiwara.fr>"]
+
+[dependencies]
+#opencv = "0.46.0"
+#binding-generator = "*"
+image = "0.23.*"
